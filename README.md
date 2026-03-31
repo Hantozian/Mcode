@@ -28,7 +28,7 @@
 
 ---
 
-## 🛠 Технологии (Просто объясняем)
+## 🛠 Технологии 
 
 | Технология | Что это | Зачем нужно |
 |-----------|--------|-----------|
@@ -154,7 +154,7 @@ go run cmd/server/main.go
 
 ---
 
-## 🌐 API (как общаться с сервером)
+## 🌐 API
 
 ### Проверка здоровья сервера (Ping)
 
@@ -310,7 +310,7 @@ id  | name       | slug       | created_at
 3   | JavaScript | javascript | 1234567892000
 ```
 
-### Таблица Snippets (Сниппеты)
+### Таблица Snippets
 
 ```
 id | language_id | title              | filename      | content        | created_at     | updated_at
